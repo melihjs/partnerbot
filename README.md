@@ -2,4 +2,4 @@
 
    - Bu sürüm güncel halidir, baya bir güncelleme gelmiştir. `croxydb` yerine `quick.db` kullanılmaktadır.
    - Promosyon kodu sistemi gelmiştir.
-   - https://discord.gg/SGdy3jtMCB
+   - https://discord.gg/ya9Gw8hBb2
